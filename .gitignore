@@ -9,7 +9,5 @@ venv/
 .tools/
 data/raw/*
 data/processed/*
-results/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
-!results/README.md

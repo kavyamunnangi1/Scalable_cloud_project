@@ -1,0 +1,11 @@
+window_number,order_count,total_quantity,total_value,top_kitchen_station,top_station_count,top_food_item,top_item_count,overload_alert
+1,50,55,324.6,Bread Station,13,Garlic Naan,4,NO
+2,50,52,266.35,Hot Kitchen,15,Pilau Rice,6,NO
+3,50,62,304.45,Bread Station,14,Naan,4,NO
+4,50,63,293.8,General Kitchen,15,Pilau Rice,4,NO
+5,50,56,277.6,Hot Kitchen,15,Pilau Rice,3,NO
+6,50,55,273.8,General Kitchen,12,Bombay Aloo,3,NO
+7,50,59,238.0,Condiments,13,Plain Papadum,5,NO
+8,50,61,284.25,General Kitchen,10,Plain Papadum,3,NO
+9,50,68,270.95,Hot Kitchen,15,Pilau Rice,5,NO
+10,50,54,245.05,Bread Station,10,Plain Papadum,4,NO
