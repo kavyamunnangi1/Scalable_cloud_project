@@ -4,6 +4,10 @@
 
 This project is a scalable cloud based real time analytics system for restaurant takeaway orders. The main idea is to replay a historical restaurant order dataset as a live stream and process it using a Lambda Architecture.
 
+## Project Owner
+
+- [Kavya](https://github.com/kavyamunnangi1)
+
 The system has three main layers:
 
 - Batch layer
